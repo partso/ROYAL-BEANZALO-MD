@@ -2,9 +2,9 @@
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+ROYAL╺+𝗕EANZALO+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+ROYAL BEANZLO+𝐓𝐄𝐀𝐌;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+ROYAL BEANZALO.𝗧𝗘𝗖𝗛;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ROYAL BEANZALO࿐;💕𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥;😁𝐰𝐚+𝐛𝐨𝐭🌹.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+ROYAL╺+𝗕EANZALO+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+ROYAL BEANZLO+𝐓𝐄𝐀𝐌;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+ROYAL BEANZALO.𝗧𝗘𝗖𝗛;𝐌𝐑:+☬PARTSON༒ROYAL BEANZALO࿐;💕𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥;😁𝐰𝐚+𝐛𝐨𝐭🌹.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://telegra.ph/file/a426523c1f8b7ee7430f1.jpg">
- <img alt="BONIPHACE-MD" height="300" src="https://telegra.ph/file/a426523c1f8b7ee7430f1.jpg">
+ <img alt="ROYAL-MD" height="300" src="https://telegra.ph/file/a426523c1f8b7ee7430f1.jpg">
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+ROYAL╺+𝗕EANZALO+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐁EANZALO+𝐓𝐄𝐀𝐌;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝗕EANZALO.𝗧𝗘𝗖𝗛;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒BEANZALO࿐;💕𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥;😁𝐰𝐚+𝐛𝐨𝐭🌹)](https://git.io/typing-svg)
 
@@ -12,12 +12,12 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
   </h1> 
-<p align="center">l introduce <b>BONIPHACE-MD</b>, a powerful simple WhatsApp bot </p>
+<p align="center">l introduce <b>ROYAL BEANZALO-MD</b>, a powerful simple WhatsApp bot </p>
 
 </p>
   <p align="center">
-<a href="https://github.com/boniphace478?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/boniphace478?label=Followers&style=social"></a>
-<a href="https://github.com/boniphace478/boniphace-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/boniphace478/boniphace-md?&style=social"></a>
+<a href="https://github.com/partso?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/partso?label=Followers&style=social"></a>
+<a href="https://https://github.com/partso/ROYAL-BEANZALO-MD-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/boniphace478/boniphace-md?&style=social"></a>
 <a href="https://github.com/boniphace478/boniphace-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/boniphace478/boniphace-md?style=social"></a>
 <a href="https://github.com/boniphace478/boniphace-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/boniphace478/boniphace-md?label=Watching&style=social"></a>
 
