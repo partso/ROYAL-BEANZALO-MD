@@ -141,7 +141,7 @@ CONTACT DEVELOPER ON WHATSAPP
   
  
 <a href="https://whatsapp.com/channel/0029Vak01yaCBtxKXcPGu41t" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ BONIPHACE_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+   
  
 
 ## License
